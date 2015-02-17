@@ -93,6 +93,8 @@ empty: true
 #              - param1
 #    options:
 #        - forwardfor
+#    reqrep:
+#      - value:
 #
 #haproxy_listen:
 #  - name:
