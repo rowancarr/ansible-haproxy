@@ -11,6 +11,7 @@ haproxy_global:
   user: haproxy
   group: haproxy
   daemon: true
+  add_epel_repo: true
 
 haproxy_defaults:
   mode: http
